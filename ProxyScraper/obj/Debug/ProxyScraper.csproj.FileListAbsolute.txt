@@ -1,0 +1,15 @@
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.exe.config
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.exe
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.pdb
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csprojAssemblyReference.cache
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.Form1.resources
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.Properties.Resources.resources
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csproj.GenerateResource.cache
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csproj.CopyComplete
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.exe
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.pdb
+C:\Users\Gokberk\source\repos\ProxyScraper\ProxyScraper\bin\Debug\CloudFlareUtilities.dll
